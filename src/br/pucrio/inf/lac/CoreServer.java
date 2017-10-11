@@ -207,16 +207,16 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
 				JSONObject object = (JSONObject) parser.parse( content );
 	        	String tag = (String) object.get( "tag" );
 	        	
+	        	ApplicationMessage appMsg = new ApplicationMessage();
+			    appMsg.setPayloadType( PayloadSerialization.JSON );
+			    appMsg.setContentObject( content );
+	        	
 	        	switch( tag ) {
 	        		case "MatchmakingData":
 	        			UUID nodeDest, analyticsDest;
 			        	String sender = (String) object.get( "uuidMatch" );
 	        			String analyticsClient = (String) object.get( "uuidAnalyticsClient" ); 
 	        			String analytics = (String) object.get( "uuidClient" ); 
-	        			
-	        			ApplicationMessage appMsg = new ApplicationMessage();
-					    appMsg.setPayloadType( PayloadSerialization.JSON );
-					    appMsg.setContentObject( content );
 	        			
 	        			nodeDest = UUID.fromString(sender);
 			        	if( mMobileHubs.containsKey( nodeDest ) )
@@ -227,6 +227,13 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
 	        				if( mMobileHubs.containsKey( analyticsDest ) )
 							    sendUnicastMSG( appMsg, analyticsDest );
 			        	}
+		        	break;
+	        		case "EventData":
+			        	String uuid = (String) object.get( "label" );
+	        			
+					    UUID nodeDestCEP = UUID.fromString(uuid);
+			        	if( mMobileHubs.containsKey( nodeDestCEP ) )
+						    sendUnicastMSG( appMsg, nodeDestCEP );
 		        	break;
 	        	}
 				
