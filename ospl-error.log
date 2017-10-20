@@ -25333,3 +25333,30 @@ Node        : DESKTOP-7R5LE3U
 Process     : javaw.exe <15060>
 Thread      : recv 13340
 Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1507247729.723652706
+========================================================================================
+Report      : ERROR
+Date        : Sat Oct 14 19:22:01 Hora oficial do Brasil 2017
+Description : UDP recvmsg sock 2732: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : recv 23320
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1508019721.036359569
+========================================================================================
+Report      : ERROR
+Date        : Sat Oct 14 19:22:01 Hora oficial do Brasil 2017
+Description : UDP recvmsg sock 2732: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : recv 23320
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1508019721.146489036
+========================================================================================
+Report      : ERROR
+Date        : Sat Oct 14 19:22:01 Hora oficial do Brasil 2017
+Description : UDP recvmsg sock 2732: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : recv 23320
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1508019721.246486072

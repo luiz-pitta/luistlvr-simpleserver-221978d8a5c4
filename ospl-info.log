@@ -11437,3 +11437,1621 @@ Node        : DESKTOP-7R5LE3U
 Process     : javaw.exe <4704>
 Thread      : durability 8176
 Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507746464.870528445
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : spliced 3236
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1507844715.608241391
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : spliced 3236
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1507844715.611828198
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : spliced 3236
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1507844715.612093395
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : spliced 3236
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507844715.612378521
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : ddsi2 19072
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1507844715.622964444
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : ddsi2 19072
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507844715.625696385
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 18:45:15 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 633255315
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <12284>
+Thread      : durability 12268
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1507844715.719576509
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : spliced 18928
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1507854306.952561297
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : spliced 18928
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1507854306.956115401
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : spliced 18928
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1507854306.956327201
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : spliced 18928
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507854306.956600574
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : ddsi2 19140
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1507854306.966537811
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:06 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : ddsi2 19140
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507854306.969188763
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:07 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 1498018165
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : durability 18968
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1507854307.073885005
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 12 21:25:14 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6968>
+Thread      : durability 18968
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507854314.176346230
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : spliced 7032
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1507902921.609737839
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : spliced 7032
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1507902921.613418411
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : spliced 7032
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1507902921.613774562
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : spliced 7032
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507902921.614091879
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : ddsi2 2224
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1507902921.624878105
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : ddsi2 2224
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507902921.628406917
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:21 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 1736104368
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : durability 11824
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1507902921.721113325
+========================================================================================
+Report      : INFO
+Date        : Fri Oct 13 10:55:29 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : durability 11824
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1507902929.234066095
+========================================================================================
+Report      : WARNING
+Date        : Fri Oct 13 10:55:39 Hora oficial do Brasil 2017
+Description : Missed heartbeat for node - heartbeat id : 1498018165. (DCPSPublication state 1)
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <1380>
+Thread      : OSPL Garbage Collector 6884
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_spliced/v_spliced.c/2439/0/1507902939.627192834
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : spliced 21668
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508012344.328211925
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : spliced 21668
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508012344.331794900
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : spliced 21668
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508012344.332116305
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : spliced 21668
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012344.332421870
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : ddsi2 21944
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508012344.349969096
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : ddsi2 21944
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012344.354097284
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:04 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 679257435
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : durability 22340
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508012344.448923227
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:19:12 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22416>
+Thread      : durability 22340
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012352.072131420
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : spliced 9948
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508012744.874513559
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : spliced 9948
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508012744.880059454
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : spliced 9948
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508012744.880582184
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : spliced 9948
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012744.886688111
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : ddsi2 10944
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508012744.939164743
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:44 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : ddsi2 10944
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012744.943499877
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:45 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 976171708
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : durability 21860
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508012745.008974756
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:25:52 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <20236>
+Thread      : durability 21860
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508012752.680624902
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : spliced 11716
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508013003.819581258
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : spliced 11716
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508013003.823344353
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : spliced 11716
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508013003.824004025
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : spliced 11716
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508013003.824319554
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : ddsi2 15784
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508013003.834388112
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : ddsi2 15784
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508013003.837614679
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:03 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 1786654653
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : durability 20932
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508013003.931904607
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 17:30:11 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21052>
+Thread      : durability 20932
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508013011.452479120
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:02 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : spliced 15632
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508019662.997139485
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : spliced 15632
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508019663.000667785
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : spliced 15632
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508019663.000940647
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : spliced 15632
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019663.001348407
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : ddsi2 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508019663.010930514
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : ddsi2 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019663.013822136
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:03 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 426519576
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : durability 6656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508019663.108993756
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:21:10 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <22576>
+Thread      : durability 6656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019670.629469650
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : spliced 19016
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508019726.937972940
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : spliced 19016
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508019726.941545184
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : spliced 19016
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508019726.941755962
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : spliced 19016
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019726.942092441
+========================================================================================
+Report      : WARNING
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : ddsi2 1596
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508019726.952582044
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:06 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : ddsi2 1596
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019726.955295591
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:07 Hora oficial do Brasil 2017
+Description : The durability service can by identified by ID: 950347930
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : durability 21568
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508019727.048620282
+========================================================================================
+Report      : INFO
+Date        : Sat Oct 14 19:22:16 Hora oficial do Brasil 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10412>
+Thread      : durability 21568
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508019736.976236474
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : spliced 14160
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508097984.293475947
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : spliced 14160
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508097984.297062243
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : spliced 14160
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508097984.297292183
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : spliced 14160
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508097984.297611799
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : ddsi2 23880
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508097984.312502452
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : ddsi2 23880
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508097984.315547623
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:24 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 2102074770
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : durability 1856
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508097984.411149231
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:06:31 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21696>
+Thread      : durability 1856
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508097991.937959203
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : spliced 13128
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508099324.859306608
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : spliced 13128
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508099324.862871188
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : spliced 13128
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508099324.863099339
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : spliced 13128
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508099324.863380888
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : ddsi2 19060
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508099324.875017891
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : ddsi2 19060
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508099324.877963933
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:44 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 97257242
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : durability 16316
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508099324.970550006
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:28:52 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <7780>
+Thread      : durability 16316
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508099332.491030754
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : spliced 23500
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508100256.439391686
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : spliced 23500
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508100256.442945024
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : spliced 23500
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508100256.443152481
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : spliced 23500
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100256.443483594
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : ddsi2 16292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508100256.454317852
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : ddsi2 16292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100256.457236556
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:16 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 206491220
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : durability 18816
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508100256.551029303
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:44:24 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19116>
+Thread      : durability 18816
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100264.071434171
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : spliced 20964
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508100447.519347742
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : spliced 20964
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508100447.522982070
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : spliced 20964
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508100447.523401327
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : spliced 20964
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100447.523710213
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : ddsi2 21044
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508100447.535095304
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : ddsi2 21044
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100447.537969809
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:27 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 178124858
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : durability 23056
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508100447.630440912
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 18:47:35 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <19432>
+Thread      : durability 23056
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508100455.150935712
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : spliced 23164
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508110058.778719989
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : spliced 23164
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508110058.782309351
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : spliced 23164
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508110058.782600353
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : spliced 23164
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110058.782895187
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : ddsi2 14276
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508110058.793830107
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : ddsi2 14276
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110058.796899805
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:38 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 964061246
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : durability 19888
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508110058.890195115
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:27:46 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <13612>
+Thread      : durability 19888
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110066.410722617
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : spliced 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508110206.927069975
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : spliced 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508110206.930986363
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : spliced 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508110206.931234187
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : spliced 21068
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110206.931635560
+========================================================================================
+Report      : WARNING
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : ddsi2 8176
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508110206.944872434
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:06 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : ddsi2 8176
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110206.949033835
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:07 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 2035934195
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : durability 18852
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508110207.040540724
+========================================================================================
+Report      : INFO
+Date        : Sun Oct 15 21:30:14 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <23680>
+Thread      : durability 18852
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508110214.561753958
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : spliced 16496
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508280039.479758944
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : spliced 16496
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508280039.483408346
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : spliced 16496
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508280039.483784681
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : spliced 16496
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508280039.484099954
+========================================================================================
+Report      : WARNING
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : ddsi2 13212
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508280039.495614578
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : ddsi2 13212
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508280039.498974000
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:39 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 1511165804
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : durability 9996
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508280039.592073350
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 20:40:49 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <17336>
+Thread      : durability 9996
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508280049.553704299
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : spliced 18820
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508281566.067961614
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : spliced 18820
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508281566.071522872
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : spliced 18820
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508281566.071787303
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : spliced 18820
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508281566.072221123
+========================================================================================
+Report      : WARNING
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : ddsi2 17896
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508281566.083516794
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : ddsi2 17896
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508281566.086534372
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:06 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 678535955
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : durability 16508
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508281566.180267589
+========================================================================================
+Report      : INFO
+Date        : Tue Oct 17 21:06:13 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <18844>
+Thread      : durability 16508
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508281573.700756769
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : spliced 25516
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508444084.933311072
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : spliced 25516
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508444084.936888171
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : spliced 25516
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508444084.937113001
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : spliced 25516
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444084.937434917
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : ddsi2 22544
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508444084.954107860
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:44 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : ddsi2 22544
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444084.957212304
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:45 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 708703443
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : durability 3216
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508444085.051071733
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:14:52 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <756>
+Thread      : durability 3216
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444092.571508282
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : spliced 16416
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508444332.945710536
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : spliced 16416
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508444332.949342564
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : spliced 16416
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508444332.949603930
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : spliced 16416
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444332.949913071
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : ddsi2 1156
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508444332.961737092
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:52 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : ddsi2 1156
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444332.964799637
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:18:53 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 1296382389
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : durability 14656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508444333.057631490
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 18:19:00 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <21168>
+Thread      : durability 14656
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508444340.578433387
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : spliced 14600
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508447618.548244406
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : spliced 14600
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508447618.551836834
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : spliced 14600
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508447618.552137289
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : spliced 14600
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508447618.552449496
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : ddsi2 24748
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508447618.569420339
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : ddsi2 24748
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508447618.572191882
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:38 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 1812032474
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : durability 20120
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508447618.765831693
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:13:46 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <6628>
+Thread      : durability 20120
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508447626.285876832
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : u_domainNew:Database allocated on heap
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : spliced 9312
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1508448722.624877206
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : spliced 9312
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1508448722.629368704
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : Service cmsoap disabled
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : spliced 9312
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1508448722.629681934
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : spliced 9312
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508448722.630052393
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : using network interface VirtualBox Host-Only Network #3 (192.168.171.2) selected arbitrarily from: VirtualBox Host-Only Network #3, VirtualBox Host-Only Network, VMware Network Adapter VMnet1, VMware Network Adapter VMnet8, Wi-F
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : ddsi2 13788
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1508448722.642268861
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : ddsi2 13788
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508448722.646804815
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:02 Horário brasileiro de verão 2017
+Description : The durability service can by identified by ID: 1571992252
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : durability 13792
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1508448722.739728763
+========================================================================================
+Report      : INFO
+Date        : Thu Oct 19 19:32:10 Horário brasileiro de verão 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <8276>
+Thread      : durability 13792
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1508448730.260584212

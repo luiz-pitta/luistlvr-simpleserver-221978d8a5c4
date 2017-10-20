@@ -151,48 +151,12 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
     private static void sendCoreMSG( PrivateMessage privateMSG ) {
         core.writeTopic( PrivateMessage.class.getSimpleName(), privateMSG );
     }
-    
-    /**
-     * Handle different events identified by a label
-     * @param label The identifier of the event
-     * @param data The data content of the event in JSON
-     * @throws ParseException 
-     */
-    private void handleEvent( final String label, final String data ) throws ParseException {
-    	JSONParser parser = new JSONParser();
-    	JSONObject object = (JSONObject) parser.parse( data );
-    	
-    	System.out.println( "\n===========================" );
-    	
-    	switch( label ) {
-    		case "MaxAVG":
-    			Double avg = (Double) object.get( "average" );
-    			if( avg > 30 )
-    				System.out.println( "Feels like hell!" );
-    			else if( avg >= 20 && avg <= 30 )
-    				System.out.println( "The weather is perfect!" );
-    			else
-    				System.out.println( "It is freezing here!" );
-    		break;
-    		
-    		default:
-    			break;
-    	}
-    	
-    	System.out.println( "===========================\n" );
-    }
-    
-    /**
-     * Handle messages (e.g. error or reply)
-     * @param object The JSONObject that contains the information
-     * @throws ParseException 
-     */
-    private void handleMessage( final String tag, final JSONObject object ) throws ParseException {
-    	final String component = (String) object.get( "component" );
-		final String message   = (String) object.get( "message" );
-		System.out.println( "\n>>" + tag + "(" + component + "): " + message + "\n" );
-    }
 
+    /**
+	 * Callback that receives message from Gateway
+	 * 
+	 * @param topicSample The message.
+	 */
 	@Override
 	public void onNewData( ApplicationObject topicSample ) {
 		Message msg = null;
@@ -250,6 +214,13 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
 							mMobileHubs.put( nodeId, gatewayId );
 							System.out.println(nodeId);
 						}
+					}else if(isUUID(mensagem.substring( 1 ))) {
+						UUID node = UUID.fromString(mensagem.substring( 1 ));
+						if( mMobileHubs.containsKey( node ) ){
+				        	ApplicationMessage appMsg = new ApplicationMessage();
+						    appMsg.setContentObject( String.valueOf(mensagem.charAt(0)) );
+						    sendUnicastMSG( appMsg, node );
+			        	}
 					}
 				}else if(s instanceof SendSensorData) {
 					SendSensorData sendSensorData = (SendSensorData) s;
@@ -314,5 +285,21 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
 			return false;			
 		}
 		return true;
+	}
+	
+	/**
+	 * A simple check to see if a string is a valid UUID 
+	 * 
+	 * @param string The string to be checked.
+	 * @return true  It is a UUID.
+	 *         false It is not a UUID.
+	 */
+	public boolean isUUID(String string) {
+	    try {
+	        UUID.fromString(string);
+	        return true;
+	    } catch (Exception ex) {
+	        return false;
+	    }
 	}
 }
