@@ -13,6 +13,7 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 import com.infopae.model.BuyAnalyticsData;
+import com.infopae.model.SendAcknowledge;
 import com.infopae.model.SendActuatorData;
 import com.infopae.model.SendAnalyticsData;
 import com.infopae.model.SendSensorData;
@@ -262,6 +263,15 @@ public class CoreServer implements UDIDataReaderListener<ApplicationObject> {
 					if( mMobileHubs.containsKey( node ) ){
 			        	ApplicationMessage appMsg = new ApplicationMessage();
 					    appMsg.setContentObject( buyAnalyticsData );
+					    sendUnicastMSG( appMsg, node );
+		        	}
+				}else if(s instanceof SendAcknowledge) {
+					SendAcknowledge sendAcknowledge = (SendAcknowledge) s;
+					UUID node = UUID.fromString(sendAcknowledge.getUuidProvider());
+				    
+					if( mMobileHubs.containsKey( node ) ){
+			        	ApplicationMessage appMsg = new ApplicationMessage();
+					    appMsg.setContentObject( sendAcknowledge );
 					    sendUnicastMSG( appMsg, node );
 		        	}
 				}

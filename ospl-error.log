@@ -25360,3 +25360,255 @@ Node        : DESKTOP-7R5LE3U
 Process     : javaw.exe <22576>
 Thread      : recv 23320
 Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1508019721.246486072
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:42 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031842.378371196
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:42 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031842.431554577
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:42 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031842.531546887
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:42 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031842.631564746
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:42 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031842.831548854
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:43 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031843.231544153
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:43 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031843.431708637
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:43 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031843.531692771
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:43 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031843.631712418
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:43 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031843.831712367
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:44 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031844.231717375
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 13:30:44 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2752: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <10896>
+Thread      : recv 10732
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509031844.344558488
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:57 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055497.589142626
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:57 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055497.939219681
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:58 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055498.039220856
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:58 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055498.139223309
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:58 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055498.339223105
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:58 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055498.739202257
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:58 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055498.939360967
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.039366230
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.139363317
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.339362091
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.585532567
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.739362448
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:04:59 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055499.939528823
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:05:00 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055500.039525144
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:05:00 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055500.139550335
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct 26 20:05:00 Horário brasileiro de verão 2017
+Description : UDP recvmsg sock 2736: ret -1 errno 10054
+
+Node        : DESKTOP-7R5LE3U
+Process     : javaw.exe <5888>
+Thread      : recv 17292
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/ddsi_socket.c/45/0/1509055500.339546554
